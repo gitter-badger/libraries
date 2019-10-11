@@ -1,8 +1,11 @@
+Feel free to edit this information content and layout. 
+
 # Solid Libraries
-An overview of Solid libraries. 
+An overview of Solid libraries.
+
+* https://vincenttunru.gitlab.io/tripledoc/docs/cheatsheet
 
 ## Solid Libraries in the Solid GitHub Account 
-Feel free to edit this information content and layout. 
 
 | Description | Associated Repositories | 
 | ------------- | ------------- | 
