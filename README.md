@@ -1,6 +1,9 @@
 Feel free to edit this information content and layout. 
 
 # Solid Libraries
+
+[![Join the chat at https://gitter.im/solid/libraries](https://badges.gitter.im/solid/libraries.svg)](https://gitter.im/solid/libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An overview of Solid libraries.
 
 * https://vincenttunru.gitlab.io/tripledoc/docs/cheatsheet
